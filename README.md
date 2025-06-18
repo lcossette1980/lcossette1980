@@ -3,7 +3,7 @@
 
 🎯 **Bridging Enterprise Strategy with Production AI Systems**
 
-Former USAA Chief Data & Analytics Officer and Air Force Chief Master Sergeant (E-9) now building production-grade AI/ML solutions. I combine 20+ years of organizational leadership with hands-on expertise in LLMs, GenAI, and scalable machine learning systems.
+Former Chief of Staff for the USAA FSB Chief Data & Analytics Officer and Air Force Chief Master Sergeant (E-9) now building production-grade AI/ML solutions. I combine 20+ years of organizational leadership with hands-on expertise in LLMs, GenAI, and scalable machine learning systems.
 
 ### 🚀 What I Build
 - **Production LLM Systems**: Custom fine-tuning pipelines, RAG architectures, conversational AI
