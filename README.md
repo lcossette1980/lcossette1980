@@ -1,42 +1,99 @@
-# Loren Cossette
-## Senior AI/ML Engineer & Agentic AI Specialist
-🎯 **Building Production-Ready AI Agent Systems & Enterprise LLM Solutions**
+# Loren Cossette, Ph.D. (c)
 
-Former Chief of Staff for the USAA FSB Chief Data & Analytics Officer and Air Force Chief Master Sergeant (E-9) now specializing in agentic AI systems, advanced RAG architectures, and production LLM deployments. I combine 20+ years of organizational leadership with deep expertise in multi-agent orchestration, conversational AI, and scalable machine learning systems.
+## AI Automation Architect | Strategy to Production | Public Sector & Enterprise GenAI
 
-### 🤖 Agentic AI Specialization
-- **Multi-Agent Systems**: LangGraph state machines, CrewAI role-based coordination, AutoGen collaborative workflows
-- **Agent Orchestration**: Complex reasoning chains, tool integration, human-in-the-loop patterns
-- **Production Agent Deployment**: FastAPI orchestration, Redis state management, monitoring & observability
-- **Model Connectivity Protocol (MCP)**: Standardized model integration and cross-platform agent communication
+**I define the AI strategy, then write the code** — a rare combination that closes the gap between GenAI's potential and operational reality.
 
-### 🚀 What I Build
-- **Advanced RAG Systems**: Vector databases (Weaviate, Chroma), hybrid search, knowledge graph integration
-- **Production LLM Applications**: Custom fine-tuning pipelines, prompt engineering, model serving optimization
-- **Enterprise AI Agents**: Document processing workflows, compliance monitoring, automated decision systems
-- **Full-Stack ML Applications**: React frontends, FastAPI backends, real-time inference, MLOps pipelines
-
-### 📊 Recent Impact
-- Led AI strategy across $126B portfolio at USAA FSB, focusing on agentic automation systems
-- Deployed multi-agent reading intelligence system serving 500+ university students
-- Built production RAG systems handling 10K+ daily queries with 95% accuracy
-- Published 4 peer-reviewed papers on AI ethics and organizational effectiveness
-- Delivered 14+ production-ready ML projects spanning healthcare, finance, and education
-
-### 🛠️ Tech Stack
-**Agentic AI**: LangChain, LangGraph, CrewAI, AutoGen, MCP, Semantic Kernel  
-**LLMs & RAG**: OpenAI GPT, Anthropic Claude, Llama, Weaviate, ChromaDB, Pinecone  
-**ML/AI**: Python, TensorFlow, PyTorch, Transformers, scikit-learn, Azure ML  
-**Development**: React, FastAPI, Docker, Git, PostgreSQL, Redis, JavaScript  
-**Cloud & MLOps**: Azure, AWS, Model Monitoring, A/B Testing, Vector Database Management  
-
-### 🎓 Credentials
-PhD Candidate (ABD) - Organizational Leadership | Post-grad certificates: AI/ML (UT Austin, Cornell) | SHRM-SCP, PROSCI, SAFe Agilist
-
-### 🤝 Open to Opportunities
-Senior AI/ML Engineer | Principal AI Architect | Agentic AI Consultant | AI Strategy Lead
-
-📧 lorentcossette@gmail.com | 💼 [LinkedIn](https://linkedin.com/in/loren-cossette)
+As the sole AI automation engineer for Multnomah County, I own the full lifecycle: problem discovery, stakeholder alignment, architecture, code, deployment, and change management. Previously spearheaded USAA Bank's first enterprise AI & Data Strategy across a $126B portfolio. 20-year military career culminating at E-9 (top 1%). PhD candidate. Published researcher. I build production agentic systems and teach executives at UT Austin and Johns Hopkins how to lead with AI.
 
 ---
-*Specializing in production agentic AI systems that combine sophisticated reasoning with enterprise operational discipline.*
+
+### What I Ship
+
+**Agentic Systems & Multi-Agent Orchestration**
+Production hub-and-spoke architectures, multi-agent pipelines (CrewAI, LangGraph, Google ADK, MCP), function-calling with human-in-the-loop approval, checkpoint/resume fault tolerance. Not prototypes — systems running unattended in government production environments.
+
+**RAG & LLM Engineering**
+Vertex AI Vector Search, retrieval pipelines across 56K+ documents, fine-tuned LLMs with custom training pipelines, prompt engineering at scale. Models in production: Gemini, Claude, GPT, Mistral.
+
+**Full-Stack & Cloud Infrastructure**
+Python, PHP, React, FastAPI, Drupal 10 — whatever the problem needs. GCP (Cloud Run, BigQuery, Vertex AI), Azure, AWS. Docker, Terraform, CI/CD. Serverless microservices bridging legacy systems to modern AI.
+
+---
+
+### Recent Impact
+
+| Metric | Result | Context |
+|--------|--------|---------|
+| **$150K–$450K replaced** | 6-hour automated pipeline | WCAG compliance triage across 56,567 government files |
+| **90% scope reduction** | 56,567 → 5,719 actionable items | Automated classification + false orphan detection |
+| **26× faster** | 24 hours vs. 79-day manual effort | Multilingual content platform, 20K+ pages |
+| **$2.7M impact** | Q1 delivery | USAA enterprise AI & Data Strategy |
+| **64% cycle time cut** | Decision automation | AI-informed Balanced Scorecard |
+| **89% cost reduction** | $34,946 saved | Multi-agent translation pipeline |
+
+---
+
+### Production Projects
+
+**WCAG Compliance Engine** — Python, PyMySQL, BeautifulSoup, PDF Analysis
+Six-stage automated triage pipeline replacing 4,000–12,000 hours of manual classification. Web crawl uncovered 4,265 "false orphans" invisible to the CMS. 30-minute weekly delta updates replaced monthly re-audits.
+
+**WCAG Remediation Platform** — Python, LangGraph, Gemini 2.5, Claude, Vertex AI, Document AI
+End-to-end compliance platform: 9-module diagnostic layer (readability, heading validation, PII detection) feeding 6 remediation agents. Outputs accessible HTML, PDF/UA, and Drupal Webforms.
+
+**Content Automation (Linkit)** — PHP, Drupal 10, Vertex AI, Multi-Agent Architecture
+Four specialized agents making 20,000+ government pages translation-ready. Link conversion (32K internal links), address/contact protection, orchestration with checkpoint/resume fault tolerance.
+
+**AI Commander (Agentic RAG)** — Python, Vertex AI, RAG, Streamlit
+Hub-and-spoke orchestration: 5 specialized agents with sticky routing, function-calling pipelines, exponential backoff, audit logging, and dynamic visualizations across 56K+ documents.
+
+**AIRS** — React, Azure OpenAI, FastAPI, PyTorch
+LLM-powered academic reading coach serving 500+ students. Fine-tuning pipeline with synthetic training datasets. Real-time chat with Azure OpenAI integration.
+
+---
+
+### Tech Stack
+
+```
+AI / ML        CrewAI · LangGraph · Google ADK · MCP · Vertex AI · PyTorch · TensorFlow
+               scikit-learn · Gemini · Claude · GPT · Mistral · RAG · Fine-Tuning · NLP
+
+Languages      Python · PHP · JavaScript · TypeScript · SQL
+
+Full Stack     React · FastAPI · REST APIs · Node.js · Drupal 10 · Streamlit
+
+Cloud/DevOps   GCP (Cloud Run, BigQuery, Vertex AI) · Azure · AWS · Docker
+               Kubernetes · Terraform · CI/CD · Serverless Microservices
+
+Data           BigQuery · MySQL · Vector DBs · Pandas · NumPy · ETL Pipelines
+```
+
+---
+
+### Thought Leadership
+
+- **AI for Leaders Mentor** — UT Austin & Johns Hopkins (Great Learning)
+- **Corporate AI Trainer** — U.S. Army Intelligence CoE, Department of Energy, Walgreens University
+- **Advisory Panel** — Houston Christian University Strategic AI Executive Certificate
+- **5 Peer-Reviewed Publications** — AIME, APA, AERA, Journal of Adolescent Health
+
+---
+
+### Credentials
+
+**Education:** Ph.D. candidate, Organizational Leadership (UIW) · PG Certs: AI/ML (UT Austin, Cornell, HCU) · M.S. Organizational Development · M.A. Psychology
+
+**Certifications:** SHRM-SCP · Prosci Change Management · SAFe 5.0 Agilist · EQi-2.0 Practitioner
+
+---
+
+### Let's Connect
+
+Open to **Senior AI Engineering**, **Principal AI Architect**, and **Strategic AI Leadership** roles.
+
+📧 lorentcossette@gmail.com · 💼 [LinkedIn](https://linkedin.com/in/loren-cossette)
+
+---
+
+*I build production agentic systems and teach leaders how to use them — strategy through deployment, no handoff required.*
